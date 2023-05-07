@@ -2,6 +2,20 @@
 
 A new Flutter project.
 
+Mocs Shop ( Ecommerce App )
+Provider Sate Management
+Splash Screen 
+On Boarding Screen 
+Home Screen 
+Favourite & Cart Screen 
+Search in Product
+Setting Screen 
+Authantecations Screen 
+Animations 
+Functionality 
+Dependency Injections 
+Api Call
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
